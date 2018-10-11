@@ -10,6 +10,11 @@
     <script src="js/materialize.js"defer></script>
     <script src="js/init.js"defer></script>
     <script src="js/skrol.js"defer></script>
+    <script src="texttype.js"defer></script>
+    <script src="typed.min.js"defer></script>
+    <script src="typed.min.js.map"defer></script>
+    <script src="viewportchecker.js"defer></script>
+      
   </head>
 
     <style media="screen">

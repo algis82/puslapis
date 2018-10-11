@@ -56,17 +56,17 @@
 <body>
   <nav class="sticky" role="navigation">
     <div class="nav-wrapper container">
-      <a id="logo-container" img><img src="img/Untitled2.jpg" width="250px"></a>
+      <a id="logo-container"href="index.php"  img><img src="img/Untitled2.jpg" width="250px"></a>
       <ul class="right hide-on-med-and-down">
-        <li><a href="programavimas.php"><b>WEB programavimas</b></a></li>
-        <li><a href="index.php"><b>Pagrindinis puslapis</b></a></li>
-        <li><a href="#"><b>Pastatų energetika</b></a></li>
+        <li><a href="index.php">Pradžia<b></b></a></li>
+        <li><a href="programavimas.php">WEB programavimas<b></b></a></li>
+        <li><a href="dddd.php"><b>Pastatų energetika</b></a></li>
       </ul>
 
       <ul id="nav-mobile" class="sidenav">
-        <li><a href="programavimas.php"><b>WEB programavimas</b></a>
-        <a href="index.php"><b>Pagrindinis puslapis</b></a>
-        <a href="#"><b>Pastatų energetika</b></a></li>
+        <li><a href="index.php"><b>WEB programavimas</b></a>
+        <a href="programavimas.php"><b>Pagrindinis puslapis</b></a>
+        <a href="dddd.php"><b>Pastatų energetika</b></a></li>
       </ul>
       <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
     </div>
@@ -142,7 +142,11 @@
           -  Situacijos analizė ir konsultacijos;<br>
           </p>
           <br>
-          <a class="waves-effect waves-light btn-large" href="forma.php">Užsakyti paslaugą</a>
+        </form>
+
+        <div >
+        <a class="waves-effect waves-light btn-large" href="forma.php">Užsakyti paslaugą</a>
+        </form>
           </center>
           </div>
           </div>
@@ -178,7 +182,7 @@
           </div>
           <div class="footer-copyright">
             <div class="container">
-            Made by <a class="brown-text text-lighten-3" href="#">@Super Puper Blaster Disaster Gang</a>
+            Made by <a class="brown-text text-lighten-3" href="#">@Asta</a>
             </div>
           </div>
         </footer>
