@@ -14,15 +14,13 @@
           <li><a href="index.php"><b>Pradžia</b></a></li>
           <li><a href="programavimas.php"><b>Web programavimas</b></a></li>
           <li><a href="buhalterineapskaita.php"><b>Buhalterinė apskaita</b></a></li>
-          <li><a href="dddd.php"><b>Pastatų energetika</b></a></li>
           <li><a href="#four">Kontaktai</a></li>
           </ul>
 
         <ul id="nav-mobile" class="sidenav">
         <li><a href="index.php"><b>Pradžia</b></a></li>
-        <a href="programavimas.php"><b>Web programavimas</b></a>
+          <a href="programavimas.php"><b>Web programavimas</b></a>
           <a href="buhalterineapskaita.php"><b>Buhalterinė apskaita</b></a>
-          <a href="dddd.php"><b>Pastatų energetika</b></a>
           <a href="#four"><b>Kontaktai</b></a></li>
         </ul>
         <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
@@ -79,16 +77,9 @@
   <div class="container">
     <h2 class="center brown-text"><img src="img/baseline_local_grocery_store_black_18dp.png"></h2>
     <h5 class="center"><a href="webUzasakimas.php">Užsakymo forma</a></h5>
-  <!-- <form id="container"action="programavimas.php" method="post">
-    <p class="center"><h5>Užsakymas forma</h5></p>
-  <p><input type="text" name="vardas" placeholder="Jusu vardas" required autofocus /></p>
-  <p><input type="email" name="email" placeholder="Jusu el.pasto adresas" required /></p>
-  <p><textarea placeholder="Jusu zinute..." name="message" required></textarea></p>
-  <p><button name="submit" type="submit" id="contect-submit">Siusti</button></p>
-  </form> -->
-</div>
-</div>
-</div>
+   </div>
+  </div>
+ </div>
 </div>
   <h3 class="center"id="one">Svetainių priežiūra</h3>
   <div class="parallax-container valign-wrapper">
@@ -101,7 +92,7 @@
     <div class="parallax"><img src="img/Information-Technology-Wallpaper-HD.jpg" alt="prieziura"></div>
   </div>
 
-  <p><a class="red-text"href="#top">grįžti</a></p>
+    <a class="waves-effect waves-light grey"href="#top">grįžti</a>
   <p class="center-align light black-text">Susikūrę internetinę svetainę, Klientai džiaugiasi baigtais darbais ir jau tą pačią dieną tikisi geriausių rezultatų. Tačiau greitai tenka susidurti su realybe – darbai ir kelias link siektino tikslo tik prasideda. Norėdami turėti lankomą ir interneto vartotojų mėgstamą svetainę, turite ją puoselėti. Kad palaikytumėte savo internetinės svetainės gyvybę, reikalinga svetainės priežiūra. Siekdami gerų rezultatų, privalote ją nuolat atnaujinti, kelti naujienas, straipsnius, nuotraukas, video ir kitą turinį. Norėdami tinkamai administruoti svetainę, turite išmanyti HTML kalbą, turėti paveikslėlių redagavimo programinę įrangą ir mokėti ja naudotis, sekti ir vertinti lankomumo statistiką, išmanyti SEO principus ir pan.
 
 Galite gaišti laiką ir visus šiuos svetainės administravimo darbus atlikti patys. Arba galite patikėti svetainių priežiūrą mums. Svetainės administravimas taps žymiai paprastesnis. Tiesiog atsiųsite laišką el. paštu, kokius pakeitimus norite atlikti, ir netrukus mes padarysime pakeitimus. Patikėkite svetainių priežiūrą mums – taupykite savo laiką.</p>
@@ -117,7 +108,7 @@ Galite gaišti laiką ir visus šiuos svetainės administravimo darbus atlikti p
       </div>
       <div class="parallax"><img src="img/cropped-webhosting.jpg" alt="serverius"></div>
     </div>
-  <p><a class="red-text"href="#top">grįžti</a></p>
+    <a class="waves-effect waves-light grey"href="#top">grįžti</a>
    <p class="center-align light black-text">Serverių nuomos ir internetinių svetainių talpinimo (hosting) paslaugas teikiame nuo 2005 m. Operatyviai ir profesionaliai aptarnaujame visus klientus - nuo mažų įmonių iki didžiausių interneto portalų, tai atspindi nuolat augantis klientų ratas. Siekdami efektyviausio klientų aptarnavimo ir paslaugų teikimo, procesų optimizavimo, sukūrėme automatizuotą hostingo ir serverių nuomos paslaugų užsakymo portalą Bacloud.com
 Valdome nuosavus duomenų centrus, todėl galime kontroliuoti visą paslaugos teikimo procesą ir užtikrinti geriausią pasiekiamumą. Ilgametė patirtis leidžia maksimaliai išnaudoti šioje srityje sukauptas žinias aptarnaujant tarnybines stotis ir teikiant pagalbą savo klientams</p>
   <h3 class="center"id="three">Puslapių kūrimas</h3>
@@ -130,7 +121,7 @@ Valdome nuosavus duomenų centrus, todėl galime kontroliuoti visą paslaugos te
     </div>
     <div class="parallax"><img src="img/bg01.jpg" alt="web kurimas"></div>
   </div>
-  <p><a class="red-text" href="#top">grįžti</a></p>
+    <a class="waves-effect waves-light grey"href="#top">grįžti</a>
   <p class="center-align light black-text">Ieškote internetinių svetainių kūrėjo? Ar dabartinis interneto tinklapis neišpildo jūsų lūkesčių? Septynerių metų patirtis kuriant įvairaus pobūdžio internetinius puslapius leidžia drąsiai teigti, jog galiu būti naudingas ir jums! Nesvarbu, ar turite aiškiai suformuluotus būsimam tinklapiui keliamus tikslus ir žinote, kokios konkrečios funkcijos reikalingos jų išpildymui, ar kreipiatės vien su abstrakčiais pageidavimais. Priklausomai nuo pageidaujamos pristatyti veiklos ypatybių, svetainės pobūdžio (kuklus asmeninis tinklaraštis, patraukli el. parduotuvė ar funkcijų gausa solidus tinklapis) bei galimo skirti biudžeto, kartu numatysime būsimų darbų sąrašą, o aš operatyviai imsiuosi jų įgyvendinimo.</p><br>
 <h4 class="center">Svetainių priežiūros darbai</h4>
 <p class="center">Naujienų įkėlimas;</p>

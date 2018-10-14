@@ -22,7 +22,8 @@
       <p><input type="number" name="telefonas" placeholder="Jūsų telefono nr." required /></p>
       <p><textarea placeholder="Jūsų žinutė..." name="message" required></textarea></p>
       <p><button name="submit" type="submit" id="contect-submit">Siųsti užsakymą</button></p>
-      <p class="center"><a href="programavimas.php">Grįžti</a></p>
+      <a class="waves-effect waves-light "href="programavimas.php">grįžti</a>
+
       </form>
     </div>
     </div>
